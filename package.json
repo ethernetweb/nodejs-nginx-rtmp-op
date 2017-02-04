@@ -1,0 +1,16 @@
+{
+  "name": "nginx-rtmp-op",
+  "email": "support@ethernetweb.com",
+  "url": "http://ethernetweb.com",
+  "version": "0.0.1",
+  "description": "nginx-rtmp-module; on_publish and on_publish_done handler",
+  "main": "nginxrtmp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node nginxrtmp.js"
+  },
+  "author": "EthernetWeb",
+  "license": "ISC",
+  "private": false
+}
+

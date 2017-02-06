@@ -1,6 +1,6 @@
 {
   "name": "nginx-rtmp-op",
-  "email": "support@ethernetweb.com",
+  "email": "public@ethernetweb.com",
   "url": "http://ethernetweb.com",
   "version": "0.0.1",
   "description": "nginx-rtmp-module; on_publish and on_publish_done handler",
